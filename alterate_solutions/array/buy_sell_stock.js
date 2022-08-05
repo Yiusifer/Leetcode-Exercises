@@ -1,4 +1,5 @@
-
+// Does not entirely work in cases where best buy day is not smallest integer / last index
+// Eg: [3,2,6,5,0,3]
 
 const maxProfit = function (prices) {
 
