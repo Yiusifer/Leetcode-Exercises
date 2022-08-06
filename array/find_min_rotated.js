@@ -1,4 +1,4 @@
-var findMin = function(nums) {
+const findMin = function(nums) {
   return Math.min(...nums);
 };
 
